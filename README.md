@@ -1,16 +1,28 @@
-## Hi there 👋
+<h1 align="center"><b>HELLO WORLD 🌍</b></h1>
 
-<!--
-**jonathangc06/jonathangc06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://mott.pe/uploads/images/2014/12/12/8.gif" />
+</p>
 
-Here are some ideas to get you started:
+## 🛠️ Tecnologías y Herramientas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://img.shields.io/badge/-JavaScript-black?logo=javascript&style=for-the-badge&logoWidth=30" height="60"/>
+  <img src="https://img.shields.io/badge/-Python-black?logo=python&style=for-the-badge&logoWidth=30" height="60"/>
+  <img src="https://img.shields.io/badge/-React-black?logo=react&style=for-the-badge&logoWidth=30" height="60"/>
+  <img src="https://img.shields.io/badge/-Node.js-black?logo=node.js&style=for-the-badge&logoWidth=30" height="60"/>
+  <img src="https://img.shields.io/badge/-Docker-black?logo=docker&style=for-the-badge&logoWidth=30" height="60"/>
+  <img src="https://img.shields.io/badge/-AWS-black?logo=amazon-aws&style=for-the-badge&logoWidth=30" height="60"/>
+  <img src="https://img.shields.io/badge/-C++-black?logo=c%2B%2B&style=for-the-badge&logoWidth=30" height="60"/>
+  <img src="https://img.shields.io/badge/-Kotlin-black?logo=kotlin&style=for-the-badge&logoWidth=30" height="60"/>
+  <img src="https://img.shields.io/badge/-Java-black?logo=java&style=for-the-badge&logoWidth=30" height="60"/>
+</p>
+
+## 📊 Estadísticas de GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jonathangc06&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonathangc06&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+
