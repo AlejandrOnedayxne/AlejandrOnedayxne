@@ -5,7 +5,7 @@
 </p>
 
 
-👋 Hi NICE TO MET YOUY, I'M JONATHAN GUZMAN!
+## 👋 Hi NICE TO MET YOUY, I'M JONATHAN GUZMAN!
 
 - I'm an enthusiastic software engineering student with a burning passion for coding and technology. 
 
@@ -20,7 +20,7 @@
 - Let's connect and build something amazing together! 🌟
 
 
-## 🛠️ Tecnologías y Herramientas
+## 🛠️ Technologies and Tools
 
 <p align="center">
   <img src="https://img.shields.io/badge/-JavaScript-black?logo=javascript&style=for-the-badge&logoWidth=30" height="60"/>
@@ -37,7 +37,8 @@
 
 </p>
 
-## 📊 Estadísticas de GitHub
+## 📊 GitHub Statistics
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jonathangc06&show_icons=true&theme=radical" alt="GitHub Stats" />
