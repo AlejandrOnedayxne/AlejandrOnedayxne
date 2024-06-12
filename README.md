@@ -32,10 +32,11 @@
   <img src="https://img.shields.io/badge/-C++-black?logo=c%2B%2B&style=for-the-badge&logoWidth=30" height="60"/>
   <img src="https://img.shields.io/badge/-Kotlin-black?logo=kotlin&style=for-the-badge&logoWidth=30" height="60"/>
   <img src="https://img.shields.io/badge/-Java-black?logo=java&style=for-the-badge&logoWidth=30" height="60"/>
-   <img src="https://img.shields.io/badge/-C%23-blue?style=flat&logo=c-sharp"height="60"/>
-     <img src="https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white"height="60"/>
-
+  <img src="https://img.shields.io/badge/-C%23-blue?style=flat&logo=c-sharp" height="60"/>
+  <img src="https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white" height="60"/>
+  <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github" height="60"/>
 </p>
+
 
 ## 📊 GitHub Statistics
 
