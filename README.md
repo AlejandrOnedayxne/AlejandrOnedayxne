@@ -4,6 +4,21 @@
   <img src="https://mott.pe/uploads/images/2014/12/12/8.gif" />
 </p>
 
+👋 Hi NICE TO MET YOUY, I'M JONATHAN GUZMAN!
+
+- I'm an enthusiastic software engineering student with a burning passion for coding and technology. 
+
+🎓 Currently, I'm pursuing my degree in Software Engineering. 
+
+🌟 I thrive on solving complex problems and crafting elegant solutions through the art of programming. 
+
+💻 In addition to my technical prowess, I'm also adept at collaborating with teams, embracing challenges, and continuously learning and adapting in the dynamic world of software development. 
+
+🌐 Excited about the journey ahead, I'm eager to contribute my skills and creativity to the ever-evolving realm of software development! 
+
+- Let's connect and build something amazing together! 🌟
+
+
 ## 🛠️ Tecnologías y Herramientas
 
 <p align="center">
@@ -23,6 +38,19 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jonathangc06&show_icons=true&theme=radical" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonathangc06&layout=compact&theme=radical" alt="Top Languages" />
+  
+  <div align=center>
+  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
+      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=jonathangc06&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
+    </a>
+</div>
 </p>
 
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</p>
+<p align="center">
+  <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
+    alt="example" />
+</p>
 
